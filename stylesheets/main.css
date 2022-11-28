@@ -1,0 +1,41 @@
+body {
+  background-image: url("../images/1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+section {
+  position: absolute;
+  right: 0px;
+  text-align: left;
+  color: white;
+  background-color: black;
+  width: 50%;
+  height: 17px;
+  font: Arial;
+  font-size: small;
+  vertical-align: bottom;
+}
+
+div {
+  
+  position: relative;
+  width: 50%;
+  bottom: -18px;
+  right: -300px;
+  color: white;
+  background-color: brown;
+}
+
+form {
+  position: absolute;
+  right: 0px;
+  display: inline;
+}
+
+input {
+  height: 17px;
+  background-color: black;
+  color: white;
+  font-size: x-small;
+}
